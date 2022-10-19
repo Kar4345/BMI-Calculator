@@ -1,0 +1,33 @@
+.holder{
+    margin: 10px;
+    width: 300px;
+    height: 70px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid darkblue;
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 900;
+}
+
+.close{
+    width: 20px;
+    height: 20px;
+    font-weight: 900;
+    border-radius: 50%;
+    position: relative;
+    bottom: 30%;
+    left:100%;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 400px){
+    .holder{
+        max-width: 300px;
+        width: 80%;
+    }
+}
