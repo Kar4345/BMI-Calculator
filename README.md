@@ -41,7 +41,8 @@ https://bmi-calculator-ochre.vercel.app/
 |   |
 |   |-- App.js
 |
-|--README.md```
+|--README.md
+```
 
 ------------
 
