@@ -21,15 +21,19 @@ https://bmi-calculator-ochre.vercel.app/
 ```
 |-- public
 |   |-- index.html
+|
 |-- src
 |   |-- components
 |   |   |-- Chart.js
 |   |   |-- Card.js
+|   |
 |   |-- styles
 |   |   |-- App.css
 |   |   |-- chart.css
 |   |   |-- card.css
+|   |
 |   |-- App.js
+|
 |--README.md
 ```
 
