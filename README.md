@@ -18,6 +18,7 @@ https://bmi-calculator-ochre.vercel.app/
 ------------
 
 ## Project Structure
+```
 |-- public
 |   |
 |   |-- index.html
@@ -40,7 +41,7 @@ https://bmi-calculator-ochre.vercel.app/
 |   |
 |   |-- App.js
 |
-|--README.md
+|--README.md```
 
 ------------
 
