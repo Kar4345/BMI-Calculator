@@ -25,11 +25,11 @@ export default function App() {
       let date = new Date();
       let now =
         date.getDate() + "/" + (date.getMonth() + 1) + "/" + date.getFullYear();
-      console.log(now);
+      
       setData([...data, { Bmi: bmi, Date: now }]);
       setWeight(0);
       setHeight(0);
-      console.log(data, showGraph);
+      
     }
   };
 

@@ -1,7 +1,7 @@
 import React from "react";
 import '../styles/card.css'
 function Card({info,deleteItem,index}){
-    console.log(info)
+    
     return (
         <div className="holder">
             <div className="close" onClick={()=>{
